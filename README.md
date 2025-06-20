@@ -5,7 +5,40 @@
 
 # 雷军微博合集从2023年至2025年(持续更新)
 https://archive.org/download/2023-9-2025-4/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B44%E6%9C%88.zip
-# 2025年一月至2025年五月
+# 2024年十二月至2025年五月
+
+# 十二月 DECEMBER 2024
+1:https://web.archive.org/web/20241201/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20241202160419/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20241203101205/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20241204234115/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20241205164714/https://m.weibo.cn/u/1749127163
+6:https://web.archive.org/web/20241206163442/https://m.weibo.cn/u/1749127163
+7:
+8:https://web.archive.org/web/20241208010643/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20241209235128/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20241210160050/https://m.weibo.cn/u/1749127163
+11:https://web.archive.org/web/20241211192142/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20241212235342/https://m.weibo.cn/u/1749127163
+13:https://web.archive.org/web/20241213235358/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20241214163639/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20241215101100/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20241216044600/https://m.weibo.cn/u/1749127163
+17:
+18:https://web.archive.org/web/20241218043655/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20241219141516/https://m.weibo.cn/u/1749127163
+20:
+21:
+22:
+23:
+24:https://web.archive.org/web/20241224134738/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20241225155908/https://m.weibo.cn/u/1749127163
+26:
+27:https://web.archive.org/web/20241227172440/https://m.weibo.cn/u/1749127163
+28:https://web.archive.org/web/20241228140720/https://m.weibo.cn/u/1749127163
+29:https://web.archive.org/web/20241229153820/https://m.weibo.cn/u/1749127163
+30:
+31:https://web.archive.org/web/20241231100228/https://m.weibo.cn/u/1749127163
 
 # 一月 JANUARY 2025
 1:https://web.archive.org/web/20250101235553/https://m.weibo.cn/u/1749127163
