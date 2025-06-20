@@ -4,7 +4,11 @@
 雷军微博主页:https://m.weibo.cn/u/1749127163
 
 # 雷军微博合集从2023年至2025年(持续更新)
-https://archive.org/download/2023-9-2025-4/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B44%E6%9C%88.zip
+1️⃣https://androidfilehost.com/?fid=9180008750105231807
+
+2️⃣https://androidfilehost.com/?fid=5649633102268469222
+
+3️⃣https://archive.org/download/2023-9-2025-4/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B44%E6%9C%88.zip
 # 2024年十二月至2025年五月
 
 # 十二月 DECEMBER 2024
