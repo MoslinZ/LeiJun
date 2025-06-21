@@ -17,7 +17,9 @@ JOhn呆伐:今天是su7u挖孔维权第51日，我说下进展。
 小米方面自5月7日问答回应后，没有任何新的公开回应。私下里，交付群单方面提出60天冷静期，暂停生产和交付，然后没有下文。
 https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/5179662051053711
 ![博主起诉小米挖孔虚假宣传](https://github.com/MoslinZ/LeiJun/blob/main/%E8%BD%A6%E4%B8%BB%E8%B5%B7%E8%AF%89.jpg)
-
+![1](https://github.com/MoslinZ/LeiJun/blob/main/0074F3degy1i2lx2r7zf5j31xe2aje81.jpg)
+![2](https://github.com/MoslinZ/LeiJun/blob/main/0074F3degy1i2lx2slhkqj30xi1q94h9.jpg)
+![3](https://github.com/MoslinZ/LeiJun/blob/main/0074F3degy1i2lx2rq6l3j30xi0sgq4b.jpg)
 # 2024年十二月至2025年五月雷军微博存档
 
 # 十二月 DECEMBER 2024
