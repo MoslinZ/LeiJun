@@ -13,10 +13,10 @@
 
 雷军:碳纤维前舱盖，不仅改了外观件，内部结构也改了，双风道直接导向轮毂，支持轮毂散热https://web.archive.org/web/20250302070028/https://m.weibo.cn/u/1749127163
 ![雷军2025年3月2日微博](https://github.com/MoslinZ/LeiJun/blob/main/%E9%9B%B7%E5%86%9B.jpg)
-车主起诉:今天是su7u挖孔维权第51日，我说下进展。
+JOhn呆伐:今天是su7u挖孔维权第51日，我说下进展。
 小米方面自5月7日问答回应后，没有任何新的公开回应。私下里，交付群单方面提出60天冷静期，暂停生产和交付，然后没有下文。
 https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/5179662051053711
-![车主起诉小米挖孔虚假宣传](https://github.com/MoslinZ/LeiJun/blob/main/%E8%BD%A6%E4%B8%BB%E8%B5%B7%E8%AF%89.jpg)
+![博主起诉小米挖孔虚假宣传](https://github.com/MoslinZ/LeiJun/blob/main/%E8%BD%A6%E4%B8%BB%E8%B5%B7%E8%AF%89.jpg)
 
 # 2024年十二月至2025年五月雷军微博存档
 
