@@ -8,7 +8,7 @@
 
 2️②https://androidfilehost.com/?fid=5649633102268469222
 
-3️③https://archive.org/download/2023-9-2025-4/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B44%E6%9C%88.zip
+3️③https://archive.org/download/2023-9-2025-6/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B46%E6%9C%88.zip
 # 小米SU7 Ultra挖孔机盖风波
 
 雷军:碳纤维前舱盖，不仅改了外观件，内部结构也改了，双风道直接导向轮毂，支持轮毂散热https://web.archive.org/web/20250302070028/https://m.weibo.cn/u/1749127163
