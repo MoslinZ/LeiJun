@@ -30,7 +30,24 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/u/1749127163
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/detail/5021587961548236
 
-# 2024年十二月至2025年五月雷军微博存档
+# 2024年十一月至2025年五月雷军微博存档
+
+# 十一月 NOVEMBER 2024
+5:https://web.archive.org/web/20241105084003/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20241107002124/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20241110095453/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20241114161932/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20241116145016/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20241117165510/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20241118043154/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20241119234153/https://m.weibo.cn/u/1749127163
+20:https://web.archive.org/web/20241120164241/https://m.weibo.cn/u/1749127163
+21:https://web.archive.org/web/20241121233955/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20241123160247/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20241124012404/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20241126161542/https://m.weibo.cn/u/1749127163
+27:https://web.archive.org/web/20241127170536/https://m.weibo.cn/u/1749127163
+30:https://web.archive.org/web/20241130182536/https://m.weibo.cn/u/1749127163
 
 # 十二月 DECEMBER 2024
 1:https://web.archive.org/web/20241201142319/https://m.weibo.cn/u/1749127163
