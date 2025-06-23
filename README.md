@@ -23,14 +23,25 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 ①https://web.archive.org/web/20241003165612/https://m.weibo.cn/detail/5085445182455840
 
 # 雷军2024年8月23日拜访@YYP颜宇鹏存档
-①https://web.archive.org/web/20240823204515/https://m.weibo.cn/u/1749127163
+①https://web.archive.org/web/20240823204515/https://m.weibo.cn/u/17491271635
 ①https://web.archive.org/web/20240823204515/https://m.weibo.cn/detail/5070514849058752
 
 # 雷军、李肖爽与@赛车星冰乐微博互动存档2024年4月10日
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/u/1749127163
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/detail/5021587961548236
 
-# 2024年十一月至2025年五月雷军微博存档
+# 2024年十月至2025年五月雷军微博存档
+
+# 十月 OCTOBER 2024
+1:https://web.archive.org/web/20241001170723/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20241002164419/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20241003165612/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20241004161205/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20241005145621/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20241007161536/https://m.weibo.cn/u/1749127163
+8:https://web.archive.org/web/20241008161007/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20241009164353/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20241010070004/https://m.weibo.cn/u/1749127163
 
 # 十一月 NOVEMBER 2024
 5:https://web.archive.org/web/20241105084003/https://m.weibo.cn/u/1749127163
