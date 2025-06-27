@@ -30,7 +30,40 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/u/1749127163
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/detail/5021587961548236
 
-# 2024年九月至2025年五月雷军微博存档
+# 2024年八月至2025年五月雷军微博存档
+
+# 八月 AUGUST 2024
+1:https://web.archive.org/web/20240801080652/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20240802065559/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20240803155009/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20240804164813/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20240805153342/https://m.weibo.cn/u/1749127163
+6:https://web.archive.org/web/20240806173033/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20240807162314/https://m.weibo.cn/u/1749127163
+8:https://web.archive.org/web/20240808162311/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20240809170618/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20240810062728/https://m.weibo.cn/u/1749127163
+11:https://web.archive.org/web/20240811165808/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20240812164308/https://m.weibo.cn/u/1749127163
+13:https://web.archive.org/web/20240813121844/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20240814120919/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20240815161711/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20240816183118/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20240817164146/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20240818233751/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20240819170116/https://m.weibo.cn/u/1749127163
+20:https://web.archive.org/web/20240820224654/https://m.weibo.cn/u/1749127163
+21:https://web.archive.org/web/20240821230336/https://m.weibo.cn/u/1749127163
+22:https://web.archive.org/web/20240822232822/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20240823204515/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20240824162807/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20240825165005/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20240826234745/https://m.weibo.cn/u/1749127163
+27:https://web.archive.org/web/20240827094102/https://m.weibo.cn/u/1749127163
+28:https://web.archive.org/web/20240828163024/https://m.weibo.cn/u/1749127163
+29:https://web.archive.org/web/20240829231654/https://m.weibo.cn/u/1749127163
+30:https://web.archive.org/web/20240830061742/https://m.weibo.cn/u/1749127163
+31:https://web.archive.org/web/20240831071127/https://m.weibo.cn/u/1749127163
 
 # 九月 SEPTEMBER 2024
 1:https://web.archive.org/web/20240901064451/https://m.weibo.cn/u/1749127163
