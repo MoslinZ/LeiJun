@@ -320,3 +320,34 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 30:https://web.archive.org/web/20250530155203/https://m.weibo.cn/u/1749127163
 31:https://web.archive.org/web/20250531154425/https://m.weibo.cn/u/1749127163
 
+# 六月 JUNE 2025
+1:https://web.archive.org/web/20250601161116/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20250602065506/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20250603155249/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20250604160728/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20250605161118/https://m.weibo.cn/u/1749127163
+6:https://web.archive.org/web/20250606085446/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20250607084055/https://m.weibo.cn/u/1749127163
+8:https://web.archive.org/web/20250608160025/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20250609173510/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20250610230031/https://m.weibo.cn/u/1749127163
+11:https://web.archive.org/web/20250611153147/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20250612154841/https://m.weibo.cn/u/1749127163
+13:https://web.archive.org/web/20250613005117/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20250614155703/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20250615160720/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20250616160248/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20250617161150/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20250618151700/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20250619155707/https://m.weibo.cn/u/1749127163
+20:https://web.archive.org/web/20250620162224/https://m.weibo.cn/u/1749127163
+21:https://web.archive.org/web/20250621161353/https://m.weibo.cn/u/1749127163
+22:https://web.archive.org/web/20250622093558/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20250623152900/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20250624152909/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20250625165137/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20250626174340/https://m.weibo.cn/u/1749127163
+27:https://web.archive.org/web/20250627190015/https://m.weibo.cn/u/1749127163
+28:https://web.archive.org/web/20250628160148/https://m.weibo.cn/u/1749127163
+29:https://web.archive.org/web/20250629171644/https://m.weibo.cn/u/1749127163
+30:https://web.archive.org/web/20250630161900/https://m.weibo.cn/u/1749127163
