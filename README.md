@@ -3,6 +3,10 @@
 
 雷军微博主页:https://m.weibo.cn/u/1749127163
 
+# ARM官宣小米玄戒
+Xiaomi’s New Silicon Powered by Arm Compute Platform Marks a 15-year Alliance Milestone
+https://web.archive.org/web/20250522154201/https://newsroom.arm.com/blog/xiaomi-xring-o1-arm-silicon-launch
+
 # 雷军微博合集从2023年至2025年(持续更新)
 雷军微博大合集179MB,浏览器单网页存档【雷军微博存档2023年9月至2025年6月.zip】
 https://archive.org/download/2023-9-2025-6/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B46%E6%9C%88.zip
