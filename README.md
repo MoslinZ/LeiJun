@@ -36,6 +36,38 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 
 # 2024年八月至2025年五月雷军微博存档
 
+# 七月 JULY 2024
+1:https://web.archive.org/web/20240701192506/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20240702110150/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20240703162142/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20240704170801/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20240705220917/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20240707162444/https://m.weibo.cn/u/1749127163
+8:https://web.archive.org/web/20240708234008/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20240709165016/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20240710161036/https://m.weibo.cn/u/1749127163
+11:https://web.archive.org/web/20240711060232/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20240712173122/https://m.weibo.cn/u/1749127163
+13:https://web.archive.org/web/20240713160235/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20240714155552/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20240715214838/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20240716075026/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20240717153436/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20240718201607/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20240719160401/https://m.weibo.cn/u/1749127163
+20:https://web.archive.org/web/20240720152744/https://m.weibo.cn/u/1749127163
+21:https://web.archive.org/web/20240721160344/https://m.weibo.cn/u/1749127163
+22:https://web.archive.org/web/20240722172959/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20240723161338/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20240724165018/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20240725155120/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20240726214134/https://m.weibo.cn/u/1749127163
+27:https://web.archive.org/web/20240727090426/https://m.weibo.cn/u/1749127163
+28:https://web.archive.org/web/20240728154925/https://m.weibo.cn/u/1749127163
+29:https://web.archive.org/web/20240729233542/https://m.weibo.cn/u/1749127163
+30:https://web.archive.org/web/20240730160044/https://m.weibo.cn/u/1749127163
+31:https://web.archive.org/web/20240731155140/https://m.weibo.cn/u/1749127163
+
 # 八月 AUGUST 2024
 1:https://web.archive.org/web/20240801080652/https://m.weibo.cn/u/1749127163
 2:https://web.archive.org/web/20240802065559/https://m.weibo.cn/u/1749127163
