@@ -2,6 +2,8 @@
 雷军微博备份，存于“互联网”档案馆Archive.org，防止雷军微博设置仅半年可见！
 
 雷军微博主页:https://m.weibo.cn/u/1749127163
+# 更多信息和内容提供长文档参考:
+https://docs.google.com/document/d/1QXx4v93P9esBfRgA5HkssuOpLUigSN11rmPwZnCVtGk/
 
 # ARM官宣小米玄戒（首发版）
 Xiaomi’s New Silicon Powered by Arm Compute Platform Marks a 15-year Alliance Milestone
