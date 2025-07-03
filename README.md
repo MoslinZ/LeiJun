@@ -3,7 +3,7 @@
 
 雷军微博主页:https://m.weibo.cn/u/1749127163
 
-# ARM官宣小米玄戒
+# ARM官宣小米玄戒（首发版）
 Xiaomi’s New Silicon Powered by Arm Compute Platform Marks a 15-year Alliance Milestone
 https://web.archive.org/web/20250522154201/https://newsroom.arm.com/blog/xiaomi-xring-o1-arm-silicon-launch
 
