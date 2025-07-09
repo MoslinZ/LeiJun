@@ -26,15 +26,12 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 
 # 雷军与@我是大彬同学互动微博存档2024年10月3日
 ①https://web.archive.org/web/20241003165612/https://m.weibo.cn/u/1749127163
-①https://web.archive.org/web/20241003165612/https://m.weibo.cn/detail/5085445182455840
 
 # 雷军2024年8月23日拜访@YYP颜宇鹏存档
 ①https://web.archive.org/web/20240823204515/https://m.weibo.cn/u/1749127163
-①https://web.archive.org/web/20240823204515/https://m.weibo.cn/detail/5070514849058752
 
 # 雷军、李肖爽与@赛车星冰乐微博互动存档2024年4月10日
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/u/1749127163
-①https://web.archive.org/web/20240410135926/https://m.weibo.cn/detail/5021587961548236
 
 # 2024年六月至2025年五月雷军微博存档
 
