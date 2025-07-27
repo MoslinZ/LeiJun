@@ -1,4 +1,4 @@
-# 雷军微博Github leijun weibo backup
+# 雷军微博Github
 雷军微博存档备份github，存于“互联网”档案馆Archive.org，防止雷军微博设置仅半年可见！
 
 雷军微博主页:https://m.weibo.cn/u/1749127163
