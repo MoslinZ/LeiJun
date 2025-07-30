@@ -8,6 +8,7 @@ https://docs.google.com/document/d/1QXx4v93P9esBfRgA5HkssuOpLUigSN11rmPwZnCVtGk/
 # ARM官宣小米玄戒（首发版）
 Xiaomi’s New Silicon Powered by Arm Compute Platform Marks a 15-year Alliance Milestone
 https://web.archive.org/web/20250522154201/https://newsroom.arm.com/blog/xiaomi-xring-o1-arm-silicon-launch
+![ARM](https://github.com/MoslinZ/LeiJun/blob/main/Screenshot_20250730_184111.jpg)
 
 # 雷军微博合集从2023年至2025年(持续更新)
 雷军微博大合集179MB,浏览器单网页存档【雷军微博存档2023年9月至2025年6月.zip】
