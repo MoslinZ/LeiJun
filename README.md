@@ -34,7 +34,11 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 # 雷军、李肖爽与@赛车星冰乐微博互动存档2024年4月10日
 ①https://web.archive.org/web/20240410135926/https://m.weibo.cn/u/1749127163
 
-# 2024年六月至2025年五月雷军微博存档
+# 雷军与@苏黎世贝勒爷微博互动存档2025年8月2
+①https://web.archive.org/web/20250802105553/https://m.weibo.cn/detail/5195104969294134
+②https://web.archive.org/web/20250802101203/https://m.weibo.cn/u/1749127163
+
+# 2024年六月至2025年七月雷军微博github存档
 
 # 六月甲辰年 JUN 2024
 1:https://web.archive.org/web/20240601161600/https://m.weibo.cn/u/1749127163
