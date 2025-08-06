@@ -38,7 +38,35 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 ①https://web.archive.org/web/20250802105553/https://m.weibo.cn/detail/5195104969294134
 ②https://web.archive.org/web/20250802101203/https://m.weibo.cn/u/1749127163
 
-# 2024年六月至2025年七月雷军微博github存档
+# 2024年五月至2025年七月雷军微博github存档
+
+# 五月甲辰年 MAY 2024
+1:https://web.archive.org/web/20240501112801/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20240502231601/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20240503160802/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20240504060322/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20240505234543/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20240507230210/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20240509214003/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20240510203020/https://m.weibo.cn/u/1749127163
+11:https://web.archive.org/web/20240511121412/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20240512152419/https://m.weibo.cn/u/1749127163
+13:https://web.archive.org/web/20240513173205/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20240515234810/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20240516163707/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20240517095034/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20240518090546/https://m.weibo.cn/u/1749127163
+19:https://web.archive.org/web/20240519164216/https://m.weibo.cn/u/1749127163
+20:https://web.archive.org/web/20240520162209/https://m.weibo.cn/u/1749127163
+21:https://web.archive.org/web/20240521163559/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20240523165230/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20240524161547/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20240525155701/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20240526054636/https://m.weibo.cn/u/1749127163
+27:https://web.archive.org/web/20240527170715/https://m.weibo.cn/u/1749127163
+28:https://web.archive.org/web/20240528164216/https://m.weibo.cn/u/1749127163
+29:https://web.archive.org/web/20240529165528/https://m.weibo.cn/u/1749127163
+31:https://web.archive.org/web/20240531111630/https://m.weibo.cn/u/1749127163
 
 # 六月甲辰年 JUN 2024
 1:https://web.archive.org/web/20240601161600/https://m.weibo.cn/u/1749127163
