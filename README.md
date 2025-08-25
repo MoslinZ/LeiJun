@@ -5,6 +5,20 @@
 # 更多信息和内容提供长文档参考:
 https://docs.google.com/document/d/1QXx4v93P9esBfRgA5HkssuOpLUigSN11rmPwZnCVtGk/
 
+# 绿化带战神系列音乐
+①深海妖怪﹣《绿化带战神》原唱完整版
+https://youtube.com/shorts/kjfg8yNqhf4
+
+②深海妖怪﹣《绿化带战神之法务赞美篇》原唱完整版
+https://youtu.be/0S7IbRN8T4U
+
+
+③深海妖怪﹣《绿化带战神三：驴大婶》原唱完整版
+https://youtu.be/TzBLRCjbdo8
+
+④深海妖怪﹣《绿化带战神四：驴免费颂》原唱完整版
+https://youtube.com/shorts/iQuRA9o9fJo
+
 # ARM官宣小米玄戒（首发版）
 Xiaomi’s New Silicon Powered by Arm Compute Platform Marks a 15-year Alliance Milestone
 https://web.archive.org/web/20250522154201/https://newsroom.arm.com/blog/xiaomi-xring-o1-arm-silicon-launch
