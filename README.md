@@ -40,6 +40,10 @@ https://web.archive.org/web/20250621024040/https://m.weibo.cn/detail/51796620510
 ![2](https://github.com/MoslinZ/LeiJun/blob/main/0074F3degy1i2lx2slhkqj30xi1q94h9.jpg)
 ![3](https://github.com/MoslinZ/LeiJun/blob/main/0074F3degy1i2lx2rq6l3j30xi0sgq4b.jpg)
 
+# 卢伟冰与雷军（北京删帖王）共享莫言:诋毁，本身就是一种仰望《20250601》
+https://web.archive.org/web/20250601094734/https://m.weibo.cn/u/1892653244
+https://web.archive.org/web/20250601094734/https://m.weibo.cn/detail/5172466755307109
+
 # 雷军与@我是大彬同学互动微博存档2024年10月3日
 ①https://web.archive.org/web/20241003165612/https://m.weibo.cn/u/1749127163
 
