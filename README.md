@@ -27,6 +27,8 @@ https://web.archive.org/web/20250522154201/https://newsroom.arm.com/blog/xiaomi-
 # 雷军微博合集从2023年至2025年(持续更新)
 雷军微博大合集205MB,浏览器单网页存档【雷军微博存档2023年9月至2025年9月.zip】
 https://archive.org/download/2023-9-2025-9/%E9%9B%B7%E5%86%9B%E5%BE%AE%E5%8D%9A%E5%AD%98%E6%A1%A32023%E5%B9%B49%E6%9C%88%E8%87%B32025%E5%B9%B49%E6%9C%88.zip
+# 卢伟冰1000多天微博Archive存档
+https://web.archive.org/web/20251005101226/https://m.weibo.cn/u/1892653244
 
 # 小米SU7 Ultra挖孔机盖风波
 
