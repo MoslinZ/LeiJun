@@ -74,7 +74,7 @@ https://web.archive.org/web/20250601094734/https://m.weibo.cn/detail/51724667553
 ①https://web.archive.org/web/20250802105553/https://m.weibo.cn/detail/5195104969294134
 ②https://web.archive.org/web/20250802101203/https://m.weibo.cn/u/1749127163
 
-# 2024年四月 至 2025年十月雷军微博github存档
+# 2024年四月 至 2025年十一月雷军微博github存档
 
 # 四月甲辰年 APR 2024
 1https://web.archive.org/web/20240401162924/https://m.weibo.cn/u/1749127163
@@ -647,3 +647,26 @@ https://web.archive.org/web/20250601094734/https://m.weibo.cn/detail/51724667553
 29:https://web.archive.org/web/20251029234517/https://m.weibo.cn/u/1749127163
 30:https://web.archive.org/web/20251030233717/https://m.weibo.cn/u/1749127163
 31:https://web.archive.org/web/20251031082350/https://m.weibo.cn/u/1749127163
+
+# 十一月乙巳年 NOVEMBER 2025
+1:https://web.archive.org/web/20251101071055/https://m.weibo.cn/u/1749127163
+2:https://web.archive.org/web/20251102170436/https://m.weibo.cn/u/1749127163
+3:https://web.archive.org/web/20251103154006/https://m.weibo.cn/u/1749127163
+4:https://web.archive.org/web/20251104155450/https://m.weibo.cn/u/1749127163
+5:https://web.archive.org/web/20251105095754/https://m.weibo.cn/u/1749127163
+6:https://web.archive.org/web/20251106155908/https://m.weibo.cn/u/1749127163
+7:https://web.archive.org/web/20251107154351/https://m.weibo.cn/u/1749127163
+8:https://web.archive.org/web/20251108075051/https://m.weibo.cn/u/1749127163
+9:https://web.archive.org/web/20251109161233/https://m.weibo.cn/u/1749127163
+10:https://web.archive.org/web/20251110160745/https://m.weibo.cn/u/1749127163
+12:https://web.archive.org/web/20251112142500/https://m.weibo.cn/u/1749127163
+14:https://web.archive.org/web/20251114131606/https://m.weibo.cn/u/1749127163
+15:https://web.archive.org/web/20251115180853/https://m.weibo.cn/u/1749127163
+16:https://web.archive.org/web/20251116173518/https://m.weibo.cn/u/1749127163
+17:https://web.archive.org/web/20251117155703/https://m.weibo.cn/u/1749127163
+18:https://web.archive.org/web/20251118082813/https://m.weibo.cn/u/1749127163
+23:https://web.archive.org/web/20251123073911/https://m.weibo.cn/u/1749127163
+24:https://web.archive.org/web/20251124091632/https://m.weibo.cn/u/1749127163
+25:https://web.archive.org/web/20251125122755/https://m.weibo.cn/u/1749127163
+26:https://web.archive.org/web/20251126114552/https://m.weibo.cn/u/1749127163
+30:https://web.archive.org/web/20251130031704/https://m.weibo.cn/u/1749127163
