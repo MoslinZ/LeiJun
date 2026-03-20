@@ -74,7 +74,7 @@ https://web.archive.org/web/20250601094734/https://m.weibo.cn/detail/51724667553
 ①https://web.archive.org/web/20250802105553/https://m.weibo.cn/detail/5195104969294134
 ②https://web.archive.org/web/20250802101203/https://m.weibo.cn/u/1749127163
 
-# 2024年四月 至 2025年十一月雷军微博github存档
+# 2024年四月 至 2026年二月雷军微博github存档
 
 # 四月甲辰年 APR 2024
 1https://web.archive.org/web/20240401162924/https://m.weibo.cn/u/1749127163
